@@ -9770,6 +9770,7 @@ e_order
 ea
 eac
 ead
+eai
 eadmin
 eager
 eagle
@@ -9790,6 +9791,8 @@ easyeditor
 eatme
 eb
 ebags
+ebanking
+ebankingpro
 ebay
 ebay2
 ebayadmin
@@ -18695,6 +18698,7 @@ pkginfo
 pkgs
 pki
 pkinc
+pkms
 pl
 pl
 pl-gb
