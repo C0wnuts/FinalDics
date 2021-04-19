@@ -27,6 +27,9 @@ client
 clients
 accueil
 compte
+moncompte
+mon-compte
+mon-profil
 profil
 portail
 ajout
@@ -111,6 +114,9 @@ panneau-de-conficuration
 panneau_de_configuration
 gestion
 gestionnaire
+abonnement
+desabonnement
+mes-abonnements
 liste
 listes
 lister
@@ -129,6 +135,10 @@ web-service
 web-services
 web_service
 web_services
+contrat
+contrats
+mon-contrat
+mes-contrats
 API
 SOAP
 REST
@@ -801,3 +811,16 @@ actualites
 candidature
 candidatures
 cgi-bin
+deconnexion
+contactez-nous
+nous-contacter
+solution
+solutions
+nos-solutions
+monespace
+mon-espace
+ressource
+ressources
+simulation
+simulations
+simuler
