@@ -1,2 +1,2 @@
 # FinalDics
-Great dictionaries for dirbuster / dirsearch / dirb / etc.
+Great web-content discovery dictionaries for dirbuster / dirsearch / dirb / gobuster / ffuf / etc.
