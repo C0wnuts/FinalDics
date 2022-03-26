@@ -1,5 +1,16 @@
 .env
 .git
+.git-rewrite
+.git/HEAD
+.git/index
+.git/logs
+.gitattributes
+.gitconfig
+.gitkeep
+.gitmodules
+.gitreview
+.svn/entries
+.svnignore
 .gitignore
 .idea
 0
@@ -144,6 +155,8 @@ cartes
 cas
 catalogue
 catalogues
+categoriser
+categorisation
 categ
 categorie
 categories
@@ -151,6 +164,8 @@ categs
 certification
 cgi-bin
 chance
+change
+changer
 chargement
 chargements
 charger
@@ -175,6 +190,7 @@ code
 codes
 commande
 commandes
+commander
 commentaire
 commentaires
 commenter
@@ -251,6 +267,7 @@ detail
 detailler
 details
 dev
+developpeur
 developpement
 developpements
 divers
@@ -317,6 +334,9 @@ executable
 executables
 exemple
 exemples
+export
+exports
+exporter
 expert
 experts
 extension
@@ -340,6 +360,8 @@ fonctionnement
 fonctions
 format
 formats
+materiel
+materiels
 forum
 forums
 fournisseur
@@ -385,6 +407,7 @@ info
 info-pratique
 infophp
 infopratique
+informatique
 information
 informations
 infos
@@ -444,6 +467,7 @@ mails
 maintenance
 maj
 management
+gerer
 manager
 manuel
 marchant
@@ -508,6 +532,7 @@ notes
 notification
 notifications
 notifier
+nous
 nous-contacter
 nouveau
 nouveaux
@@ -534,6 +559,7 @@ pages
 pagination
 paiement
 paiements
+annuler
 panier
 panneau
 panneau-de-conficuration
@@ -580,6 +606,7 @@ porn
 porno
 port
 portail
+portails
 ports
 postgres
 postgresql
@@ -672,6 +699,7 @@ resultat
 resultats
 results
 retour
+retirer
 retours
 robots
 root
@@ -809,6 +837,7 @@ temporaire
 terminal
 terminaux
 test
+tester
 testimonial
 testimonials
 tests
@@ -860,6 +889,7 @@ uploads
 url
 urls
 us
+utilisateur
 utilisateurs
 utilisation
 utilisations
@@ -892,6 +922,8 @@ web3
 web_master
 web_service
 web_services
+web-admin
+web_admin
 webadmin
 webadministrateur
 webadministrateurs
@@ -936,3 +968,11 @@ zone_admins
 zone_client
 zone_clients
 zones
+reinitialiser
+reinitialisation
+initialiser
+initialisation
+activer
+activation
+desactiver
+desactivation
