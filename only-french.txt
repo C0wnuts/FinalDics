@@ -108,6 +108,8 @@ API_REST
 API_SOAP
 APIREST
 APISOAP
+app
+apps
 application
 applications
 archivage
@@ -647,6 +649,8 @@ protection
 protections
 protege
 proteger
+protocole
+protocoles
 ps
 public
 publication
@@ -759,6 +763,8 @@ soumettre
 soumissions
 source
 sources
+souscrire
+souscription
 spec
 special
 speciale
@@ -976,3 +982,5 @@ activer
 activation
 desactiver
 desactivation
+france
+francais
