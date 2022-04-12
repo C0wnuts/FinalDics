@@ -125,6 +125,10 @@ automatisee
 automatiser
 autre
 autres
+authentification
+authentifications
+authent
+auth
 back-office
 back_office
 backoffice
@@ -219,6 +223,9 @@ confirmation
 confirmer
 connexion
 connexions
+conso
+consommation
+consommer
 console
 consoles
 consulter
